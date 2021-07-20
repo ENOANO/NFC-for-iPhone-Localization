@@ -181,7 +181,9 @@
 "nfc_themes_free_section_title" = "Gratis";
 "nfc_themes_premium_section_title" = "Premium";
 "nfc_theme_italian_horse_red" = "Italienisches Pferderot";
-"nfc_theme_terminal_green" = "Hacker Grün";
+"nfc_theme_hacker_green" = "Hacker Grün";
+"nfc_theme_english_green" = "English Grün";
+"nfc_theme_gold" = "Gold";
 "nfc_themes_settings_section_title" = "Einstellungen";
 "nfc_themes_force_dark_mode_title" = "Dunkler Modus erzwingen";
 "nfc_themes_force_dark_mode_description" = "Mit dem Erzwingen des dunklen Modus kannst du deine Systemeinstellung für diese App außer Kraft setzen. Dies ist hilfreich, wenn du ein Theme verwendst, das im hellen Modus möglicherweise keinen guten Kontrast bietet.";

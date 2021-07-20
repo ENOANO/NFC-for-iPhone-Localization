@@ -181,7 +181,9 @@
 "nfc_themes_free_section_title" = "Free";
 "nfc_themes_premium_section_title" = "Premium";
 "nfc_theme_italian_horse_red" = "Italian Horse Red";
-"nfc_theme_terminal_green" = "Hacker Green";
+"nfc_theme_hacker_green" = "Hacker Green";
+"nfc_theme_english_green" = "English Green";
+"nfc_theme_gold" = "Gold";
 "nfc_themes_settings_section_title" = "Settings";
 "nfc_themes_force_dark_mode_title" = "Force Dark Mode";
 "nfc_themes_force_dark_mode_description" = "By forcing dark mode you can override your system setting for this app. This is helpful when using a theme that might not have a good constrast in light mode.";

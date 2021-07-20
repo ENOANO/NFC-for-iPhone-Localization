@@ -181,7 +181,9 @@
 "nfc_themes_free_section_title" = "免费";
 "nfc_themes_premium_section_title" = "溢价";
 "nfc_theme_italian_horse_red" = "意大利马红";
-"nfc_theme_terminal_green" = "骇客绿";
+"nfc_theme_hacker_green" = "骇客绿";
+"nfc_theme_english_green" = "英国绿色";
+"nfc_theme_gold" = "金色";
 "nfc_themes_settings_section_title" = "设置";
 "nfc_themes_force_dark_mode_title" = "强制黑暗模式";
 "nfc_themes_force_dark_mode_description" = "通过强迫黑暗模式，你可以为这个应用程序覆盖你的系统设置。如果你使用的主题在灯光模式下可能无法提供良好的对比度，这是有帮助的。";
