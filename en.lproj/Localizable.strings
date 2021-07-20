@@ -89,6 +89,7 @@
 
 //SETTINGS
 "nfc_settings_theme_section_header" = "Theme";
+"nfc_settings_select_theme_title" = "Select Theme";
 "nfc_settings_pro_features_section_header" = "Pro Features";
 "nfc_settings_pro_features_adfree_title" = "Buy Ad-Free";
 "nfc_settings_pro_features_description" = "By purchasing the ad-free version you support the further development of NFC for iPhone. This product can only be purchased once. You can restore the purchase at any time.";
@@ -169,12 +170,21 @@
 "nfc_write_help_shortcuts_title" = "How can I control the Shortcuts App with NFC-Tags?";
 "nfc_write_help_shortcuts_description" = "In NFC Writer screen, select \"Shortcut\" from the menu and enter the name of the shortcut. The shortcut must have exactly the same name as in the Shortcuts app. Pay attention to upper and lower case. Optionally you can add a parameter or use the clipboard for the shortcut. Once you've written the shortcut to an NFC tag, you can read the tag at any time without opening NFC for iPhone. The only requirement is that your iPhone must be unlocked.";
 
+//THEMES
 "nfc_theme_blue" = "Blue";
 "nfc_theme_orange" = "Orange";
 "nfc_theme_green" = "Green";
 "nfc_theme_pink" = "Pink";
 "nfc_theme_yellow" = "Yellow";
 "nfc_theme_spring" = "Spring";
+"nfc_themes_title" = "Themes";
+"nfc_themes_free_section_title" = "Free";
+"nfc_themes_premium_section_title" = "Premium";
+"nfc_theme_fire_red" = "Italian Horse Red";
+"nfc_theme_terminal_green" = "Hacker Green";
+"nfc_themes_settings_section_title" = "Settings";
+"nfc_themes_force_dark_mode_title" = "Force Dark Mode";
+"nfc_themes_force_dark_mode_description" = "By forcing dark mode you can override your system setting for this app. This is helpful when using a theme that might not have a good constrast in light mode.";
 
 "nfc_settings_app_icon_title" = "App Icon";
 "nfc_settings_choose_app_icon_title" = "Choose App Icon";

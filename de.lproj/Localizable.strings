@@ -89,6 +89,7 @@
 
 //SETTINGS
 "nfc_settings_theme_section_header" = "Theme";
+"nfc_settings_select_theme_title" = "Theme auswählen";
 "nfc_settings_pro_features_section_header" = "Pro Features";
 "nfc_settings_pro_features_adfree_title" = "Keine Werbung";
 "nfc_settings_pro_features_description" = "Durch den Kauf der werbefreien Version unterstützt du die Weiterentwicklung von NFC für iPhone. Dieses Produkt kann nur einmal erworben werden. Du kannst den Kauf jederzeit wiederherstellen.";
@@ -169,12 +170,21 @@
 "nfc_write_help_shortcuts_title" = "Wie kann ich die Kurzbefehle App mit NFC Tags ansteuern?";
 "nfc_write_help_shortcuts_description" = "Wähle in NFC Schreiben Anzeige den Menüpunkt \"Kurzbefehl\" aus und gebe den Namen des Kurzbefehls ein. Der Kurzbefehl muss exakt den selben Namen wie in der Kurzbefehle App haben. Achte hierbei auf Groß- und Kleinschreibung. Optional kannst du dem Kurzbefehl auch noch einen Parameter mitgeben oder die Zwischenablage auslesen lassen. Wenn du den Kurzbefehl dann auf einen NFC-Tag geschrieben hast, kannst du den Tag zu jederzeit auslesen, auch ohne das NFC für iPhone geöffnet ist. Einzige Voraussetzung ist das dein iPhone entsperrt sein muss.";
 
+//THEMES
 "nfc_theme_blue" = "Blau";
 "nfc_theme_orange" = "Orange";
 "nfc_theme_green" = "Grün";
 "nfc_theme_pink" = "Pink";
 "nfc_theme_yellow" = "Gelb";
 "nfc_theme_spring" = "Frühling";
+"nfc_themes_title" = "Themes";
+"nfc_themes_free_section_title" = "Gratis";
+"nfc_themes_premium_section_title" = "Premium";
+"nfc_theme_fire_red" = "Italienisches Pferderot";
+"nfc_theme_terminal_green" = "Hacker Grün";
+"nfc_themes_settings_section_title" = "Einstellungen";
+"nfc_themes_force_dark_mode_title" = "Dunkler Modus erzwingen";
+"nfc_themes_force_dark_mode_description" = "Mit dem Erzwingen des dunklen Modus kannst du deine Systemeinstellung für diese App außer Kraft setzen. Dies ist hilfreich, wenn du ein Theme verwendst, das im hellen Modus möglicherweise keinen guten Kontrast bietet.";
 
 "nfc_settings_app_icon_title" = "App Icon";
 "nfc_settings_choose_app_icon_title" = "App Icon auswählen";

@@ -89,6 +89,7 @@
 
 //SETTINGS
 "nfc_settings_theme_section_header" = "主题";
+"nfc_settings_select_theme_title" = "选择主题";
 "nfc_settings_pro_features_section_header" = "高级功能";
 "nfc_settings_pro_features_adfree_title" = "免广告购买";
 "nfc_settings_pro_features_description" = "通过购买无广告版本，您将支持本应用的进一步发展。该产品只能购买一次。您可以在任何时候恢复购买。";
@@ -169,12 +170,21 @@
 "nfc_write_help_shortcuts_title" = "如何用NFC-Tags控制快捷指令App？";
 "nfc_write_help_shortcuts_description" = "在NFC写入界面，从菜单中选择 \"快捷指令 \"并输入快捷指令的名称。快捷指令的名称必须与快捷指令应用中的名称完全相同。注意大写和小写。你也可以选择添加一个参数或者使用剪贴板来写快捷方式。一旦你把快捷指令写到NFC标签上，你可以在任何时候读取标签，而无需打开本应用。唯一的要求是你的iPhone必须是解锁的。";
 
+//THEMES
 "nfc_theme_blue" = "蓝色";
 "nfc_theme_orange" = "橙色";
 "nfc_theme_green" = "绿色";
 "nfc_theme_pink" = "粉色";
 "nfc_theme_yellow" = "黄色";
 "nfc_theme_spring" = "弹簧";
+"nfc_themes_title" = "主题";
+"nfc_themes_free_section_title" = "免费";
+"nfc_themes_premium_section_title" = "溢价";
+"nfc_theme_fire_red" = "意大利马红";
+"nfc_theme_terminal_green" = "骇客绿";
+"nfc_themes_settings_section_title" = "设置";
+"nfc_themes_force_dark_mode_title" = "强制黑暗模式";
+"nfc_themes_force_dark_mode_description" = "通过强迫黑暗模式，你可以为这个应用程序覆盖你的系统设置。如果你使用的主题在灯光模式下可能无法提供良好的对比度，这是有帮助的。";
 
 "nfc_settings_app_icon_title" = "App图标";
 "nfc_settings_choose_app_icon_title" = "选择App图标";
