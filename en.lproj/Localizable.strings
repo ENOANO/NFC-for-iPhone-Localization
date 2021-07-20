@@ -180,7 +180,7 @@
 "nfc_themes_title" = "Themes";
 "nfc_themes_free_section_title" = "Free";
 "nfc_themes_premium_section_title" = "Premium";
-"nfc_theme_fire_red" = "Italian Horse Red";
+"nfc_theme_italian_horse_red" = "Italian Horse Red";
 "nfc_theme_terminal_green" = "Hacker Green";
 "nfc_themes_settings_section_title" = "Settings";
 "nfc_themes_force_dark_mode_title" = "Force Dark Mode";
@@ -198,6 +198,8 @@
 "nfc_appicon_flag_rastafari" = "Rastafari";
 "nfc_purchase_app_icon_title" = "App Icon";
 "nfc_purchase_app_icon_description" = "By purchasing an app icon you support the further development of NFC for iPhone. This product can only be purchased once. You can restore the purchase at any time.";
+"nfc_purchase_theme_title" = "Theme";
+"nfc_purchase_theme_description" = "By purchasing a theme you support the further development of NFC for iPhone. This product can only be purchased once. You can restore the purchase at any time.";
 
 //Expert Mode
 "nfc_expert_button_title" = "Function";

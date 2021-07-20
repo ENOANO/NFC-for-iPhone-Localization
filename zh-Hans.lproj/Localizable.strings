@@ -180,7 +180,7 @@
 "nfc_themes_title" = "主题";
 "nfc_themes_free_section_title" = "免费";
 "nfc_themes_premium_section_title" = "溢价";
-"nfc_theme_fire_red" = "意大利马红";
+"nfc_theme_italian_horse_red" = "意大利马红";
 "nfc_theme_terminal_green" = "骇客绿";
 "nfc_themes_settings_section_title" = "设置";
 "nfc_themes_force_dark_mode_title" = "强制黑暗模式";
@@ -198,6 +198,8 @@
 "nfc_appicon_flag_rastafari" = "拉斯特法里";
 "nfc_purchase_app_icon_title" = "App图标";
 "nfc_purchase_app_icon_description" = "通过购买App图标，您将支持本App的进一步发展。该产品只能购买一次。您可以在任何时候恢复购买。";
+"nfc_purchase_theme_title" = "主题";
+"nfc_purchase_theme_description" = "通过购买一个主题，你支持iPhone的NFC的进一步发展。该产品只能购买一次。你可以在任何时候恢复购买。";
 
 //Expert Mode
 "nfc_expert_button_title" = "功能";
