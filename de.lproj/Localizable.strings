@@ -144,7 +144,6 @@
 "nfc_settings_ad_consent_title" = "Werbezustimmung";
 
 "nfc_settings_widget_settings_section_header" = "Widget Einstellungen";
-"nfc_settings_widget_editing_title" = "Verwalte QR-Codes";
 
 //HELP
 "nfc_read_help_compatibility_mode_title" = "Was ist der Kompatibilitätsmodus?";
