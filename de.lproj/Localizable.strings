@@ -104,6 +104,7 @@
 "nfc_settings_purchase_adfree_success_description" = "Der Kauf war erfolgreich. Bitte starte die App nun neu.";
 "nfc_settings_purchase_donation_success_description" = "Der Kauf war erfolgreich. Vielen Dank für deine Spende!";
 "nfc_settings_purchase_app_icon_success_description" = "Der Kauf war erfolgreich. Das App Icon wird nun aktiviert.";
+"nfc_settings_purchase_theme_success_description" = "Der Kauf war erfolgreich. Das Theme wird nun aktiviert.";
 "nfc_settings_purchase_nothing_to_restore_description" = "Das Produkt wurde nie erworben.";
 "nfc_settings_purchase_restore_success_description" = "Die Wiederherstellung war erfolgreich. Bitte starte die App nun neu.";
 "nfc_settings_indefinite_read_section_header" = "NFC Lesen Einstellungen";
@@ -184,6 +185,7 @@
 "nfc_theme_hacker_green" = "Hacker Grün";
 "nfc_theme_english_green" = "English Grün";
 "nfc_theme_gold" = "Gold";
+"nfc_theme_purple_haze" = "Purple Haze";
 "nfc_themes_settings_section_title" = "Einstellungen";
 "nfc_themes_force_dark_mode_title" = "Dunkler Modus erzwingen";
 "nfc_themes_force_dark_mode_description" = "Mit dem Erzwingen des dunklen Modus kannst du deine Systemeinstellung für diese App außer Kraft setzen. Dies ist hilfreich, wenn du ein Theme verwendst, das im hellen Modus möglicherweise keinen guten Kontrast bietet.";

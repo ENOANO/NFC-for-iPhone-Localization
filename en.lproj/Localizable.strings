@@ -104,6 +104,7 @@
 "nfc_settings_purchase_adfree_success_description" = "The purchase was successful. Please restart the app now.";
 "nfc_settings_purchase_donation_success_description" = "The purchase was successful. Thank you for your donation.";
 "nfc_settings_purchase_app_icon_success_description" = "The purchase was successful. Your App Icon will be activated now.";
+"nfc_settings_purchase_theme_success_description" = "The purchase was successful. Your Theme will be activated now.";
 "nfc_settings_purchase_restore_success_description" = "The restore was successful. Please restart the app now.";
 "nfc_settings_purchase_nothing_to_restore_description" = "The product was never purchased.";
 "nfc_settings_indefinite_read_section_header" = "NFC Read Settings";
@@ -184,6 +185,7 @@
 "nfc_theme_hacker_green" = "Hacker Green";
 "nfc_theme_english_green" = "English Green";
 "nfc_theme_gold" = "Gold";
+"nfc_theme_purple_haze" = "Purple Haze";
 "nfc_themes_settings_section_title" = "Settings";
 "nfc_themes_force_dark_mode_title" = "Force Dark Mode";
 "nfc_themes_force_dark_mode_description" = "By forcing dark mode you can override your system setting for this app. This is helpful when using a theme that might not have a good constrast in light mode.";
