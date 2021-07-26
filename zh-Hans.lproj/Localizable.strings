@@ -92,6 +92,7 @@
 "nfc_settings_select_theme_title" = "选择主题";
 "nfc_settings_pro_features_section_header" = "高级功能";
 "nfc_settings_pro_features_adfree_title" = "免广告购买";
+"nfc_settings_pro_features_unlimited_widgets_title" = "无限的QR码小工具";
 "nfc_settings_pro_features_description" = "通过购买无广告版本，您将支持本应用的进一步发展。该产品只能购买一次。您可以在任何时候恢复购买。";
 "nfc_settings_pro_features_restore_button_title" = "恢复";
 "nfc_settings_donations_section_header" = "捐赠给开发商";
@@ -203,6 +204,8 @@
 "nfc_purchase_app_icon_description" = "通过购买App图标，您将支持本App的进一步发展。该产品只能购买一次。您可以在任何时候恢复购买。";
 "nfc_purchase_theme_title" = "主题";
 "nfc_purchase_theme_description" = "通过购买一个主题，你支持iPhone的NFC的进一步发展。该产品只能购买一次。你可以在任何时候恢复购买。";
+"nfc_purchase_unlimited_widgets_title" = "小组件";
+"nfc_purchase_unlimited_widgets_description" = "通过购买无限制的部件，你支持iPhone的NFC的进一步发展。这个产品只能购买一次。你可以在任何时候恢复购买。";
 
 //Expert Mode
 "nfc_expert_button_title" = "功能";

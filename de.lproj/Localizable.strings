@@ -92,6 +92,7 @@
 "nfc_settings_select_theme_title" = "Theme auswählen";
 "nfc_settings_pro_features_section_header" = "Pro Features";
 "nfc_settings_pro_features_adfree_title" = "Keine Werbung";
+"nfc_settings_pro_features_unlimited_widgets_title" = "Unlimitierte QR-Code Widgets";
 "nfc_settings_pro_features_description" = "Durch den Kauf der werbefreien Version unterstützt du die Weiterentwicklung von NFC für iPhone. Dieses Produkt kann nur einmal erworben werden. Du kannst den Kauf jederzeit wiederherstellen.";
 "nfc_settings_pro_features_restore_button_title" = "Wiederherstellen";
 "nfc_settings_donations_section_header" = "Spenden an den Entwickler";
@@ -203,6 +204,8 @@
 "nfc_purchase_app_icon_description" = "Durch den Kauf eines App Icons unterstützt du die Weiterentwicklung von NFC für iPhone. Dieses Produkt kann nur einmal erworben werden. Du kannst den Kauf jederzeit wiederherstellen.";
 "nfc_purchase_theme_title" = "Theme";
 "nfc_purchase_theme_description" = "Durch den Kauf eines Themes unterstützt du die Weiterentwicklung von NFC für iPhone. Dieses Produkt kann nur einmal erworben werden. Du kannst den Kauf jederzeit wiederherstellen.";
+"nfc_purchase_unlimited_widgets_title" = "Widgets";
+"nfc_purchase_unlimited_widgets_description" = "Durch den Kauf der unlimitierten Widgets unterstützt du die Weiterentwicklung von NFC für iPhone. Dieses Produkt kann nur einmal erworben werden. Du kannst den Kauf jederzeit wiederherstellen.";
 
 //Expert Mode
 "nfc_expert_button_title" = "Funktion";
