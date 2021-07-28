@@ -106,6 +106,7 @@
 "nfc_settings_purchase_donation_success_description" = "购买成功。谢谢您的捐赠。";
 "nfc_settings_purchase_app_icon_success_description" = "购买成功。应用图标会现在激活。";
 "nfc_settings_purchase_theme_success_description" = "购买成功了。您的主题现在将被激活。";
+"nfc_settings_purchase_unlimited_widgets_success_description" = "购买成功了。现在享受无限的二维码部件。";
 "nfc_settings_purchase_restore_success_description" = "恢复成功。请重新启动本应用。";
 "nfc_settings_purchase_nothing_to_restore_description" = "该产品从未购买过。";
 "nfc_settings_indefinite_read_section_header" = "NFC读取设置";
@@ -277,3 +278,12 @@
 "nfc_qr_save_qr_for_widget_message" = "二维码已被保存为小工具。你现在可以在小部件中显示这个二维码。";
 "nfc_qr_how_to_widget_link" = "https://support.apple.com/zh-cn/HT207122";
 "nfc_qr_show_me_how_to_widget_button" = "小工具帮助。";
+
+// WIDGETS
+"nfc_widget_qr_display_name" = "QR小工具";
+"nfc_widget_qr_widget_add_title" = "在你的主屏幕上显示QR码";
+"nfc_widget_qr_widget_preview_title" = "编辑小部件以选择QR码";
+"nfc_widget_qr_unlimited_widgets_not_purchased_message" = "小工具被锁定。\n请购买无限制的QR码小工具，以使用多个小工具。";
+
+"nfc_widget_button_display_name" = "快速阅读小工具";
+"nfc_widget_button_widget_add_title" = "从你的主屏幕开始阅读";

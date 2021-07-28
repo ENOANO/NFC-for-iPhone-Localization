@@ -106,6 +106,7 @@
 "nfc_settings_purchase_donation_success_description" = "Der Kauf war erfolgreich. Vielen Dank für deine Spende!";
 "nfc_settings_purchase_app_icon_success_description" = "Der Kauf war erfolgreich. Das App Icon wird nun aktiviert.";
 "nfc_settings_purchase_theme_success_description" = "Der Kauf war erfolgreich. Das Theme wird nun aktiviert.";
+"nfc_settings_purchase_unlimited_widgets_success_description" = "Der Kauf war erfolgreich. Unlimitierte QR-Code Widgets ist nun aktiv.";
 "nfc_settings_purchase_nothing_to_restore_description" = "Das Produkt wurde nie erworben.";
 "nfc_settings_purchase_restore_success_description" = "Die Wiederherstellung war erfolgreich. Bitte starte die App nun neu.";
 "nfc_settings_indefinite_read_section_header" = "NFC Lesen Einstellungen";
@@ -277,3 +278,12 @@
 "nfc_qr_save_qr_for_widget_message" = "Der QR-Code wurde für Widgets abgespeichert. Du kannst diesen QR-Code nun im Widget anzeigen.";
 "nfc_qr_how_to_widget_link" = "https://support.apple.com/de-de/HT207122";
 "nfc_qr_show_me_how_to_widget_button" = "Widget Hilfe";
+
+// WIDGETS
+"nfc_widget_qr_display_name" = "QR Widget";
+"nfc_widget_qr_widget_add_title" = "Zeige einen QR-Code auf deinem Homescreen an";
+"nfc_widget_qr_widget_preview_title" = "Widget bearbeiten um QR-Code auszuwählen";
+"nfc_widget_qr_unlimited_widgets_not_purchased_message" = "Widget gesperrt.\nBitte erwerbe die unlimitierten QR-Code Widgets, um mehr als ein Widget zu verwenden.";
+
+"nfc_widget_button_display_name" = "Schnell Lesen Widget";
+"nfc_widget_button_widget_add_title" = "Starte den Lesevorgang von deinem Homescreen";
