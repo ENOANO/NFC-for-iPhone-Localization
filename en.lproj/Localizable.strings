@@ -1,9 +1,7 @@
-"nfc_device_not_compatible" = "Sorry your device is not compatible!\n\nOnly iPhone 7 or newer devices support NFC capabilities. iPhone 6, 6s, 5s and SE support Apple Pay but Apple didn't make NFC available to developers. I also made an error when submitting the app. It should not be downloadable on older devices and iPads, but I can't change that anymore.\n\nPlease refrain from giving bad reviews on the AppStore when your device is not compatible.\n\nThank you!";
-
 "nfc_general_ok" = "Ok";
 "nfc_general_cancel" = "Cancel";
 "nfc_general_error" = "Error";
-"nfc_error_nfc_not_available" = "This device does not support NFC. Please use an iPhone 7 or later to use NFC. Please note: The iPhone 6s does have NFC modul built in, but it is not available to developers and can only be used for Apple Pay.";
+"nfc_error_nfc_not_available" = "This device does not support NFC. Please use an iPhone 7 or later to use NFC. Please note: The iPhone 6s and iPhone SE 1st gen do have a NFC modul built in, but it is not available to developers and can only be used for Apple Pay.";
 
 "nfc_reader_title" = "NFC Reader";
 "nfc_writer_title" = "NFC Writer";

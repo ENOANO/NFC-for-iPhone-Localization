@@ -1,9 +1,7 @@
-"nfc_device_not_compatible" = "对不起，您的设备不兼容!\n\n只有iPhone 7或更新的设备支持NFC功能。 iPhone 6、6s、5s和SE支持Apple Pay，但苹果没有向开发者提供NFC。我在提交应用时也犯了一个错误。它应该无法在旧设备和iPad上下载，但我已经无法改变了。当你的设备不兼容时，请不要在AppStore上给差评。\n\n谢谢你！";
-
 "nfc_general_ok" = "好的";
 "nfc_general_cancel" = "取消";
 "nfc_general_error" = "错误";
-"nfc_error_nfc_not_available" = "这个设备不支持NFC。请使用iPhone 7或更高版本来使用NFC。请注意。iPhone 6s确实内置了NFC模块，但它不对开发者开放，只能用于苹果支付";
+"nfc_error_nfc_not_available" = "这个设备不支持NFC。请使用iPhone 7或更高版本来使用NFC。请注意：iPhone 6s和iPhone SE第一代确实内置了NFC模块，但它不对开发者开放，只能用于苹果支付。";
 
 "nfc_reader_title" = "NFC读取";
 "nfc_writer_title" = "NFC写入";
