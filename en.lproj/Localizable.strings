@@ -123,10 +123,10 @@
 "nfc_settings_promotion_tag_title" = "NFC Tags";
 "nfc_settings_promotion_section_footer" = "By purchasing NFC tags through the links above, I get a small portion of the unaltered purchase price as support for the development of NFC for iPhone.";
 
-"nfc_settings_promotion_amazon_link" = "https://www.amazon.com/gp/product/B08BKFNWLP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08BKFNWLP&linkCode=as2&tag=1337420050185-20&linkId=ca5752c32d1ebb9931c4a7785f7ee8d8";
+"nfc_settings_promotion_amazon_link" = "https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=1337420050185-20&keywords=nfc tag&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=94064f90a0a357e2e152c27ae0c95923";
 
 "nfc_settings_more_title" = "More";
-"nfc_settings_website_title" = "Visit my website";
+"nfc_settings_website_title" = "Visit my Website";
 
 "nfc_settings_rate_app_title" = "Rate this App";
 "nfc_settings_rate_app_alert_question_title" = "Do you like NFC for iPhone?";
@@ -144,6 +144,7 @@
 "nfc_settings_ad_consent_title" = "Ad Consent";
 
 "nfc_settings_widget_settings_section_header" = "Widget Settings";
+"nfc_settings_more_apps_title" = "More Apps by me";
 
 //HELP
 "nfc_read_help_compatibility_mode_title" = "What is the compatibility mode?";

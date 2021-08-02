@@ -144,6 +144,7 @@
 "nfc_settings_ad_consent_title" = "广告审批";
 
 "nfc_settings_widget_settings_section_header" = "小工具设置";
+"nfc_settings_more_apps_title" = "我的更多应用程序";
 
 //HELP
 "nfc_read_help_compatibility_mode_title" = "什么是兼容模式？";
