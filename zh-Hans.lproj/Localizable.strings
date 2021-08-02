@@ -276,6 +276,7 @@
 "nfc_qr_save_qr_for_widget_message" = "二维码已被保存为小工具。你现在可以在小部件中显示这个二维码。";
 "nfc_qr_how_to_widget_link" = "https://support.apple.com/zh-cn/HT207122";
 "nfc_qr_show_me_how_to_widget_button" = "小工具帮助。";
+"nfc_qr_convert_to_nfc_button" = "转换为NFC标签";
 
 // WIDGETS
 "nfc_widget_qr_display_name" = "QR小工具";

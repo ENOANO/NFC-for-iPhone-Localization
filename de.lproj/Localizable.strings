@@ -276,6 +276,7 @@
 "nfc_qr_save_qr_for_widget_message" = "Der QR-Code wurde für Widgets abgespeichert. Du kannst diesen QR-Code nun im Widget anzeigen.";
 "nfc_qr_how_to_widget_link" = "https://support.apple.com/de-de/HT207122";
 "nfc_qr_show_me_how_to_widget_button" = "Widget Hilfe";
+"nfc_qr_convert_to_nfc_button" = "Zu NFC Tag konvertieren";
 
 // WIDGETS
 "nfc_widget_qr_display_name" = "QR Widget";

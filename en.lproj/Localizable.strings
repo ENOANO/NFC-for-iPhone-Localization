@@ -276,6 +276,7 @@
 "nfc_qr_save_qr_for_widget_message" = "The QR code has been saved for widgets. You can now display this QR code in the widget.";
 "nfc_qr_how_to_widget_link" = "https://support.apple.com/en-us/HT207122";
 "nfc_qr_show_me_how_to_widget_button" = "Widget Help";
+"nfc_qr_convert_to_nfc_button" = "Convert to NFC Tag";
 
 // WIDGETS
 "nfc_widget_qr_display_name" = "QR Widget";
