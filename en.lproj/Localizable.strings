@@ -274,16 +274,16 @@
 "nfc_qr_save_for_widget_button" = "Save QR-Code for Widget";
 "nfc_qr_remove_for_widget_button" = "Remove QR-Code for Widget";
 "nfc_qr_save_qr_for_widget_title" = "QR-Code saved";
-"nfc_qr_save_qr_for_widget_message" = "The QR code has been saved for widgets. You can now display this QR code in the widget.";
+"nfc_qr_save_qr_for_widget_message" = "The QR-Code has been saved for widgets. You can now display this QR-Code in the widget.";
 "nfc_qr_how_to_widget_link" = "https://support.apple.com/en-us/HT207122";
 "nfc_qr_show_me_how_to_widget_button" = "Widget Help";
 "nfc_qr_convert_to_nfc_button" = "Convert to NFC Tag";
 
 // WIDGETS
 "nfc_widget_qr_display_name" = "QR Widget";
-"nfc_widget_qr_widget_add_title" = "Display a QR code on your homescreen";
-"nfc_widget_qr_widget_preview_title" = "Edit widget to select QR code";
-"nfc_widget_qr_unlimited_widgets_not_purchased_message" = "Widget locked.\nPlease purchase the unlimited QR code widgets to use more than one widget.";
+"nfc_widget_qr_widget_add_title" = "Display a QR-Code on your homescreen";
+"nfc_widget_qr_widget_preview_title" = "Edit widget to select QR-Code";
+"nfc_widget_qr_unlimited_widgets_not_purchased_message" = "Widget locked.\nPlease purchase the unlimited QR-Code widgets to use more than one widget.";
 
 "nfc_widget_button_display_name" = "Quick Read Widget";
 "nfc_widget_button_widget_add_title" = "Start reading from your homescreen";
