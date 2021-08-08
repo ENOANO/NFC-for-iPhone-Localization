@@ -123,8 +123,6 @@
 "nfc_settings_promotion_tag_title" = "NFC标签";
 "nfc_settings_promotion_section_footer" = "通过以上链接购买NFC标签，我将获得一小部分不变的购买价格，作为对本应用发展的支持。";
 
-"nfc_settings_promotion_amazon_link" = "https://www.amazon.com/gp/product/B075RXBVKM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075RXBVKM&linkCode=as2&tag=1337420050185-20&linkId=f7ad3cb54bfa933430af0b402a65df40";
-
 "nfc_settings_more_title" = "更多";
 "nfc_settings_website_title" = "访问开发者网站";
 
