@@ -283,5 +283,9 @@
 "nfc_widget_qr_widget_preview_title" = "编辑小部件以选择QR码";
 "nfc_widget_qr_unlimited_widgets_not_purchased_message" = "小工具被锁定。\n请购买无限制的QR码小工具，以使用多个小工具。";
 
-"nfc_widget_button_display_name" = "快速阅读小工具";
-"nfc_widget_button_widget_add_title" = "从你的主屏幕开始阅读";
+"nfc_widget_nfc_button_display_name" = "NFC阅读小工具";
+"nfc_widget_nfc_button_widget_add_title" = "从你的主屏幕快速启动NFC阅读";
+"nfc_widget_code_button_display_name" = "代码阅读小工具";
+"nfc_widget_code_button_widget_add_title" = "从你的主屏幕快速启动代码阅读";
+"nfc_widget_mixed_button_display_name" = "NFC和代码阅读小工具";
+"nfc_widget_mixed_button_widget_add_title" = "从你的主屏幕上快速启动NFC&代码读取";

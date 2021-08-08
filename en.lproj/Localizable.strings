@@ -283,5 +283,9 @@
 "nfc_widget_qr_widget_preview_title" = "Edit widget to select QR-Code";
 "nfc_widget_qr_unlimited_widgets_not_purchased_message" = "Widget locked.\nPlease purchase the unlimited QR-Code widgets to use more than one widget.";
 
-"nfc_widget_button_display_name" = "Quick Read Widget";
-"nfc_widget_button_widget_add_title" = "Start reading from your homescreen";
+"nfc_widget_nfc_button_display_name" = "NFC Read Widget";
+"nfc_widget_nfc_button_widget_add_title" = "Quickly start NFC reading from your home screen";
+"nfc_widget_code_button_display_name" = "Code Read Widget";
+"nfc_widget_code_button_widget_add_title" = "Quickly start Code reading from your home screen";
+"nfc_widget_mixed_button_display_name" = "NFC & Code Read Widget";
+"nfc_widget_mixed_button_widget_add_title" = "Quickly start NFC & Code reading from your home screen";

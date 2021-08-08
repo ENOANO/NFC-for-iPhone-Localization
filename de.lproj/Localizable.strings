@@ -283,5 +283,9 @@
 "nfc_widget_qr_widget_preview_title" = "Widget bearbeiten um QR-Code auszuwählen";
 "nfc_widget_qr_unlimited_widgets_not_purchased_message" = "Widget gesperrt.\nBitte erwerbe die unlimitierten QR-Code Widgets, um mehr als ein Widget zu verwenden.";
 
-"nfc_widget_button_display_name" = "Schnell Lesen Widget";
-"nfc_widget_button_widget_add_title" = "Starte den Lesevorgang von deinem Homescreen";
+"nfc_widget_nfc_button_display_name" = "NFC Lesen Widget";
+"nfc_widget_nfc_button_widget_add_title" = "Starte den NFC Lesevorgang von deinem Homescreen aus";
+"nfc_widget_code_button_display_name" = "Code Lesen Widget";
+"nfc_widget_code_button_widget_add_title" = "Starte den Code Lesevorgang von deinem Homescreen aus";
+"nfc_widget_mixed_button_display_name" = "NFC & Code Lesen Widget";
+"nfc_widget_mixed_button_widget_add_title" = "Starte den NFC & Code Lesevorgang von deinem Homescreen aus";
