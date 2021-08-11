@@ -1,0 +1,1 @@
+visitenkarte,rfid,business,QR,code,ntag,nxp,tool,homekit,wifi,scanner,ndef,vcard,ean,leser,werkzeug

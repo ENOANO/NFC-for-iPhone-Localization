@@ -1,0 +1,55 @@
+Read and write NFC tags with your iPhone 7 or newer.
+Read and create QR codes
+
+NFC Reader and Writer
+
+- Read NDEF messages from NFC tags
+- Write NDEF messages from NFC tags
+- Analyze NFC tags with the Expert Mode
+- Format NFC tags as NDEF
+- Format NFC Tags
+- Lock NFC Tags
+- Execute shortcuts from NFC tags
+    - HomeKit Automation possible with older iPhone
+- Widget for quick access to the read function
+- Lock NFC Tags
+- Connect to a Wi-Fi network
+- Supported data types:
+    - Business Card
+    - Shortcut
+    - Location
+    - Web Link
+    - Wi-Fi
+    - Text
+    - Phone Number
+    - SMS      
+- Open the read data in other apps
+- Share the read data
+
+
+Read codes with your camera:
+
+- Supported codes
+    - Aztec
+    - Code128
+    - Code39
+    - Code39Mod43
+    - Code93
+    - DataMatrix
+    - EAN13
+    - EAN8
+    - Interleaved 2of5
+    - ITF14
+    - PDF417
+    - QR
+    - UPCE
+
+Create QR Codes:
+	- Business Card
+	- Wifi
+	- Weblink
+	- Text
+
+QR Code widget:
+	- Place a QR code on your home screen for quick access
+	- Share information quickly with your colleagues and friends

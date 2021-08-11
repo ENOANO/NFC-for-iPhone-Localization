@@ -1,0 +1,1 @@
+scan,read,tag,tags,business,card,scanner,ndef,near,field,implant,uri,vcard,key,qr,nxp,ntag,ring,wifi
