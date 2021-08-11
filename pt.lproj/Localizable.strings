@@ -123,8 +123,6 @@
 "nfc_settings_promotion_tag_title" = "Tags NFC";
 "nfc_settings_promotion_section_footer" = "Comprando tags NFC pelos links acima, eu recebo uma pequena quantia do valor original para apoiar o desenvolvimento do NFC for iPhone.";
 
-"nfc_settings_promotion_amazon_link" = "https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=1337420050185-20&keywords=nfc tag&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=94064f90a0a357e2e152c27ae0c95923";
-
 "nfc_settings_more_title" = "Mais";
 "nfc_settings_website_title" = "Visite meu site";
 
@@ -287,3 +285,7 @@
 
 "nfc_widget_button_display_name" = "Leitura rápida de widget";
 "nfc_widget_button_widget_add_title" = "Iniciar leitura de sua tela inicial";
+"nfc_widget_code_button_display_name" = "Ler Código Widget";
+"nfc_widget_code_button_widget_add_title" = "Comece o processo de leitura do código a partir de sua tela inicial";
+"nfc_widget_mixed_button_display_name" = "NFC & Código Ler Widget";
+"nfc_widget_mixed_button_widget_add_title" = "Inicie o processo de leitura de NFC e código a partir de sua tela inicial";
