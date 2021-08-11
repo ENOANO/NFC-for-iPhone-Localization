@@ -1,0 +1,289 @@
+"nfc_general_ok" = "OK";
+"nfc_general_cancel" = "Cancelar";
+"nfc_general_error" = "Erro";
+"nfc_error_nfc_not_available" = "Este dispositivo não suporta NFC. Por favor, use um iPhone 7 ou mais recente para usar o NFC. Atenção: O iPhone 6s e o iPhone SE (primeira geração) têm um módulo NFC integrado, mas ele não está disponível para desenvolvedores e só pode ser usado para o Apple Pay.";
+
+"nfc_reader_title" = "Ler NFC";
+"nfc_writer_title" = "Gravar NFC";
+"nfc_expert_title" = "NFC Expert";
+"nfc_settings_title" = "Configurações";
+"nfc_create_vcard_title" = "Gerar cartão de visita";
+"nfc_create_weblink_title" = "Gerar link web";
+"nfc_create_location_title" = "Gerar local";
+"nfc_create_wifi_title" = "Gerar Wi-Fi";
+"nfc_create_text_title" = "Gerar texto";
+"nfc_create_sms_title" = "Gerar SMS";
+"nfc_create_tel_title" = "Gerar número telefônico";
+"nfc_create_shortcut_title" = "Gerar atalho";
+"nfc_read_help_title" = "Ler ajuda";
+"nfc_write_help_title" = "Escrever ajuda";
+"nfc_licenses_title" = "Licenças";
+"nfc_pro_title" = "Pro";
+"nfc_donation_title" = "Doação";
+
+
+"nfc_help_title" = "Ajuda";
+
+"nfc_delete_all_tags_title" = "Aviso!";
+"nfc_delete_all_tags_message" = "Você está prestes a apagar TODAS as entradas desta aba. Dica: Você pode apagar entradas indivualmente arrastando-a da direita para a esquerda.";
+"nfc_delete_all_tags_button_delete_title" = "Apagar";
+"nfc_delete_all_tags_button_cancel_title" = "Cancelar";
+
+"nfc_vcard_error" = "Não foi possível ler o VCard - Verifique a formatação";
+
+"nfc_scan_hint_1" = "Aproxime a tag NFC da parte superior traseira do seu iPhone.";
+"nfc_scan_hint_2" = "Sua tag NFC está corretamente formatada? Verifique a seção de ajuda!";
+"nfc_scan_hint_3" = "Credit Cards, Passports or Public Transport Cards are not supportedCartões de crédito, passaportes e cartões de transporte não são suportados!";
+
+"nfc_write_hint" = "Aproxime seu iPhone de uma tag NFC para atualizar.";
+"nfc_write_lock_hint" = "Bloquear tag NFC.\nEssa operação NÃO pode ser desfeita.";
+"nfc_write_multiple_tags_error" = "Mais uma tag NFC detectada. Por favor, apresente apenas uma tag NFC.";
+"nfc_write_determine_ndef_status_error" = "Falha ao determinar o status NDEF. Por favor, tente novamente.";
+"nfc_write_tag_not_writable_error" = "A tag NFC não é gravável.";
+"nfc_write_capacity_too_small_error" = "Capacidade da tag insuficiente!\Necessário: %d Bytes\nCapacidade da tag: %d Bytes";
+"nfc_write_update_failed_error" = "Falha ao atualizar a tag. Por favor, tente novamente.";
+"nfc_write_tag_not_ndef_formatted_error" = "Tag não está no formato NDEF.";
+"nfc_write_lock_success" = "Bloqueio bem-sucedido.";
+"nfc_write_lock_failed" = "Falha no bloqueio. Por favor, tente novamente.";
+
+"nfc_write_succes" = "Gravação bem-sucedida";
+"nfc_write_add_tag_title" = "Nova mensagem";
+"nfc_write_add_tag_description" = "Por favor selecione o tipo de mensagem";
+
+"nfc_write_button_title" = "Gravar";
+"nfc_read_button_title" = "Ler";
+"nfc_save_button_title" = "Salvar";
+"nfc_choose_contact_button_title" = "Escolher contato";
+
+"nfc_contact_cell_title" = "Contato";
+"nfc_map_cell_title" = "Localização";
+"nfc_text_cell_title" = "Texto";
+"nfc_weblink_cell_title" = "Link web";
+"nfc_wifi_cell_title" = "Wi-Fi";
+"nfc_sms_cell_title" = "SMS";
+"nfc_tel_cell_title" = "Número telefônico";
+"nfc_shortcut_cell_title" = "Atalho";
+
+"nfc_create_business_card_action_title" = "cartão de visita";
+"nfc_create_location_action_title" = "Localização";
+"nfc_create_weblink_action_title" = "Link web";
+"nfc_create_wifi_action_title" = "Wi-Fi";
+"nfc_create_text_action_title" = "Texto";
+"nfc_create_sms_action_title" = "SMS";
+"nfc_create_tel_action_title" = "Número telefônico";
+"nfc_create_shortcut_action_title" = "Atalho";
+"nfc_cancel_action_title" = "Cancelar";
+
+"nfc_create_tel_placeholder" = "Digite o número telefônico";
+"nfc_create_sms_recipiant_placeholder" = "Digite o número telefônico";
+"nfc_create_sms_message_placeholder" = "Digite a mensagem";
+"nfc_create_shortcut_placeholder" = "Digite o nome do atalho";
+"nfc_create_shortcut_parameter_placeholder" = "Digite o parâmetro (opcional)";
+"nfc_create_shortcut_parameter_pasteboard_placeholder" = "Usando área de transferência";
+
+"nfc_create_shortcut_use_pasteboard_title" = "Usar área de transferência";
+
+"nfc_map_detail_open_in_maps_annotation_title" = "Localização da NFC para iPhone";
+
+//SETTINGS
+"nfc_settings_theme_section_header" = "Tema";
+"nfc_settings_select_theme_title" = "Selecionar tema";
+"nfc_settings_pro_features_section_header" = "Versão Pro";
+"nfc_settings_pro_features_adfree_title" = "Remover anúncios";
+"nfc_settings_pro_features_unlimited_widgets_title" = "Widgets QR-Code ilimitados";
+"nfc_settings_pro_features_description" = "Ao comprar a versão sem anúncios, você apoia o contínuo desenvolvimento do NFC for iPhone. Esse produto pode ser comprado apenas uma vez. Você pode resgatar sua compra a qualquer momento.";
+"nfc_settings_pro_features_restore_button_title" = "Resgatar";
+"nfc_settings_donations_section_header" = "Doar ao desenvolvedor";
+"nfc_settings_donate_donut_title" = "Doar um donut 🍩";
+"nfc_settings_donate_smoothie_title" = "Doar um smoothie 🍹";
+"nfc_settings_donate_meal_title" = "Doar uma refeição 🍛";
+"nfc_settings_donate_description" = "Uma doação apoia o contínuo desenvolvimento do NFC for iPhone. Esse produto pode ser comprado várias vezes.";
+"nfc_settings_purchase_success_title" = "Obrigado!";
+"nfc_settings_purchase_failed_title" = "Erro";
+"nfc_settings_purchase_adfree_success_description" = "Compra realizada com sucesso. Por favor reinicie o app agora.";
+"nfc_settings_purchase_donation_success_description" = "Compra realizada com sucesso. Obrigado por sua doação.";
+"nfc_settings_purchase_app_icon_success_description" = "Compra realizada com sucesso. O ícone do app será ativado agora.";
+"nfc_settings_purchase_theme_success_description" = "Compra realizada com sucesso. Seu tema será ativado agora.";
+"nfc_settings_purchase_unlimited_widgets_success_description" = "Compra realizada com sucesso. Aproveite os widgets ilimitados agora.";
+"nfc_settings_purchase_restore_success_description" = "Resgate realizado com sucesso. Por favor, reinicie o app agora.";
+"nfc_settings_purchase_nothing_to_restore_description" = "O produto nunca foi comprado.";
+"nfc_settings_indefinite_read_section_header" = "Configurações de leitura de NFC";
+"nfc_settings_compatibility_mode_title" = "Modo de compatibilidade";
+"nfc_settings_start_read_on_startup_title" = "Ler ao iniciar app";
+"nfc_settings_open_links_on_read_title" = "Abrir link web ao ler";
+"nfc_settings_run_shortcut_on_read_title" = "Executar atalho ao ler";
+"nfc_settings_indefinite_read_title" = "Leitura infinita";
+"nfc_settings_indefinite_read_section_footer" = "Você pode ler quantas tags NFC quiser até pressionar \"Concluído\".";
+
+"nfc_settings_help_section_header" = "Ajuda";
+"nfc_settings_help_read_title" = "Ler";
+"nfc_settings_help_write_title" = "Gravar";
+
+"nfc_settings_promotion_section_header" = "Comprar tags NFC (link afiliado)";
+"nfc_settings_promotion_tag_title" = "Tags NFC";
+"nfc_settings_promotion_section_footer" = "Comprando tags NFC pelos links acima, eu recebo uma pequena quantia do valor original para apoiar o desenvolvimento do NFC for iPhone.";
+
+"nfc_settings_promotion_amazon_link" = "https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=1337420050185-20&keywords=nfc tag&index=aps&camp=1789&creative=9325&linkCode=ur2&linkId=94064f90a0a357e2e152c27ae0c95923";
+
+"nfc_settings_more_title" = "Mais";
+"nfc_settings_website_title" = "Visite meu site";
+
+"nfc_settings_rate_app_title" = "Avalie ese app";
+"nfc_settings_rate_app_alert_question_title" = "Você gostou do NFC for iPhone?";
+"nfc_settings_rate_app_alert_question_description" = "Se sim, por favor dedique um momento para dizer a outros usuários do que gostou. Se não, por favor me conte por e-mail o que eu poderia melhorar. Obrigado!";
+"nfc_settings_send_email_question_title" = "Quer me contra qual foi o problema com o NFC for iPhone?";
+"nfc_settings_rate_app_alert_answer_yes" = "Sim";
+"nfc_settings_rate_app_alert_answer_no" = "Não";
+"nfc_settings_help_translating_title" = "Ajuda a traduzir o app";
+"nfc_settings_licenses_title" = "Licenças";
+"nfc_settings_licenses_font_section_header" = "Fonte";
+"nfc_settings_3rd_party_libs_section_header" = "Bibliotecas de terceiros";
+"nfc_settings_licenses_icons_section_header" = "Ícones";
+
+"nfc_settings_privacy_policy_title" = "Política de privacidade";
+"nfc_settings_ad_consent_title" = "Consentimento para anúncios";
+
+"nfc_settings_widget_settings_section_header" = "Configurações de widgets";
+"nfc_settings_more_apps_title" = "Mais apps meus";
+
+//HELP
+"nfc_read_help_compatibility_mode_title" = "O que é o modo e compatibliidade?";
+"nfc_read_help_compatibility_mode_description" = "Quando você ativa o modo de compatibilidade, a tag NFC é lida de um modo diferente. Se você tiver problemas ao ler uma tag, ative o modo de compatibilidade.";
+"nfc_read_help_ndef_title" = "O que é NDEF?";
+"nfc_read_help_ndef_description" = "NDEF, em inglês, significa \"Formato de Intercâmbio de Dados NFC\". Ele define um formato de mensagem encapsulada necessário para a troca de dados com tags NFC.";
+
+"nfc_read_help_credit_card_title" = "Eu quero ler meu cartão de crédito";
+"nfc_read_help_credit_card_description" = "Esse recurso não é suportado pelo iOS e provavelmente não será implementado pela Apple no futuro.";
+
+"nfc_read_help_other_card_title" = "Eu gostaria de ler meu cartão de transporte público, cantina ou similar";
+"nfc_read_help_other_card_description" = "Esse recurso é suportado pelo iOS, mas (ainda) não por este app. Em muitos casos há apenas um longo número nesses cartões, sem muita utilidade para o usuário.";
+
+"nfc_read_help_no_read_title" = "Quando aproximo uma tag NFC do iPhone, nada acontece";
+"nfc_read_help_no_read_description" = "Certifique-se de que a tag NFC contém dados legíveis. Sua tag NFC deve estar no formato NDEF para ser lida por este app. A maioria dos cartões na sua carteira provavelmente não estão no formato NDEF e não serão reconhecidos por este app. Mas você pode comprar tags NFC no app através dos links afiliados na Amazon.";
+
+"nfc_write_help_which_tags" = "De quais tags NFC eu preciso?";
+"nfc_write_help_which_description" = "As tags NTag da NXP são as mais indicadas. Essas tags vêm em diferentes versões: NTAG 213, 215 e 216. As principais diferenças são a capcidade de memória e o preço. 'É muito importante que essas tags venham pré-formatadas em NDEF'. Diferentes tags NFC estão listadas a seguir com suas respectivas capacidades de memóris.\n\nNTAG 213: 180 Bytes (NDEF: 137 Bytes)\nNTAG 215: 540 Bytes (NDEF: 480 Bytes)\nNTAG 216: 924 Bytes (NDEF: 868 Bytes)\n\nAo comprar, certifique-se de comprar tags NFC com memória suficiente. Você pode apoiar o NFC for iPhone comprando as tags apropriadas através dos links afiliados. As tags anunciadas têm a maior capacidade de armazenamento possível e são indicadas para qualquer aplicação.";
+
+"nfc_write_help_whats_shortcuts_section_header" = "O que é o app Atalhos?";
+"nfc_write_help_whats_shortcuts_title" = "Manual do usuário do app Atalhos";
+"nfc_write_help_whats_shortcuts_link" = "https://support.apple.com/pt-br/guide/shortcuts/welcome/ios";
+
+"nfc_write_help_shortcuts_title" = "Como posso controlar o app Atalhos com tags NFC?";
+"nfc_write_help_shortcuts_description" = "Na tela de gravação de NFC, selecione \"Atalhos\" a partir do menu e digite o nome do atalho. O atalho deve ter exatamente o mesmo nome que no app Atalhos. Preste atenção às maiúsculas e minúsculas. Opcionalmente, você pode especificar um parâmetro ou usar a área de transferência com o atalho. Assim que você gravar o atalho na tag NFC, você pode ler a tag a qualquer momento sem abrir o app NFC for iPhone. Seu iPhone só precisa estar desbloqueado.";
+
+//THEMES
+"nfc_theme_blue" = "Azul";
+"nfc_theme_orange" = "laranja";
+"nfc_theme_green" = "Verde";
+"nfc_theme_pink" = "Pink";
+"nfc_theme_yellow" = "Amarelo";
+"nfc_theme_spring" = "Primavera";
+"nfc_themes_title" = "Temas";
+"nfc_themes_free_section_title" = "Grátis";
+"nfc_themes_premium_section_title" = "Premium";
+"nfc_theme_italian_horse_red" = "Vermelho Cavalo Italiano";
+"nfc_theme_hacker_green" = "Verde Hacker";
+"nfc_theme_english_green" = "Verde Inglês";
+"nfc_theme_gold" = "Dourado";
+"nfc_theme_purple_haze" = "Névoa Púrpura";
+"nfc_themes_settings_section_title" = "Configurações";
+"nfc_themes_force_dark_mode_title" = "Forçar modo escuro";
+"nfc_themes_force_dark_mode_description" = "Forçando o modo escuro, você pode anular as configurações de sistema para este app. Isso é útil ao usar um tema que não tenha bom contraste no modo claro.";
+
+"nfc_settings_app_icon_title" = "Ícone do app";
+"nfc_settings_choose_app_icon_title" = "Escolher ícone do app.";
+"nfc_app_icon_section_free_title" = "Grátis";
+"nfc_app_icon_section_premium_title" = "Premium";
+"nfc_appicon_standard" = "Padrão";
+"nfc_appicon_dark" = "Noite Escura";
+"nfc_appicon_pink" = "Algodão Doce";
+"nfc_appicon_dark_rainbow" = "Arco-íris Modo Escuro";
+"nfc_appicon_rainbow" = "Arco -íris";
+"nfc_appicon_flag_rastafari" = "Rastafari";
+"nfc_purchase_app_icon_title" = "'cone do app'";
+"nfc_purchase_app_icon_description" = "Ao comprar um ícone do app, você apoia o desenvolvimento contínuo do NFC for iPhone. Esse produto pode ser comprado apenas uma vez. Você pode resgatar sua compra a qualquer momento.";
+"nfc_purchase_theme_title" = "Tema";
+"nfc_purchase_theme_description" = "Ao comprar um tema, você apoia o desenvolvimento contínuo do NFC for iPhone. Esse produto pode ser comprado apenas uma vez. Você pode resgatar sua compra a qualquer momento.";
+"nfc_purchase_unlimited_widgets_title" = "Widgets";
+"nfc_purchase_unlimited_widgets_description" = "Ao comprar widgets ilimitados, você apoia o desenvolvimento contínuo do NFC for iPhone. Esse produto pode ser comprado apenas uma vez. Você pode resgatar sua compra a qualquer momento.";
+
+//Expert Mode
+"nfc_expert_button_title" = "Função";
+
+"nfc_expert_mode_title" = "Escolha uma função";
+"nfc_expert_mode_title_description" = "Aviso: alguma funções podem acarretar perda de dados na sua tag.";
+"nfc_expert_mode_read_memory_title" = "Ler a memória";
+"nfc_expert_mode_empty_ndef_title" = "Formatar como NDEF";
+"nfc_expert_mode_format_title" = "Formatar";
+
+"nfc_tag_expert_section_header_tag_info" = "Informações da tag";
+"nfc_tag_expert_section_header_tag_header" = "Cabeçalho da tag";
+"nfc_tag_expert_section_header_tag_data" = "Dados";
+
+"nfc_expert_tag_info_tag_type" = "Tipo de tag:";
+"nfc_expert_tag_info_tag_family" = "Família da tag:";
+"nfc_expert_tag_info_identifier" = "Identificador:";
+"nfc_expert_tag_info_capcity" = "Capacidade:";
+"nfc_expert_tag_info_status" = "Status:";
+"nfc_expert_tag_info_status_read_only" = "Somente leitura";
+"nfc_expert_tag_info_status_read_write" = "Leitura/escrita";
+"nfc_expert_header_vendor" = "Fabricante:";
+"nfc_expert_header_product_type" = "Tipo de produto:";
+"nfc_expert_header_product_subtype" = "Subtipo do produto:";
+"nfc_expert_header_major_version" = "Versão principal:";
+"nfc_expert_header_minor_version" = "Versão secundária:";
+"nfc_expert_header_storage" = "Tamanho do armazenamento:";
+"nfc_expert_header_protocol_type" = "Tipo de protocolo:";
+"nfc_expert_header_raw" = "Dados brutos:";
+
+"nfc_override_alert_title" = "Aviso!";
+"nfc_override_alert_message" = "Essa operação sobrescreve todos os dados da tag.";
+
+"nfc_error_tag_type_not_supported" = "Erro: Tipo de tag (ainda) não é suportado. Por favor, selecione o modo de compatibilidade nas configurações e tente novamente";
+"nfc_read_error_could_not_read_version" = "Erro: Não foi possível ler a versão. Por favor, tente novamente";
+"nfc_read_error_could_not_read_data" = "Erro: Não foi possível ler os dados. Por favor, tente novamente";
+"nfc_write_error_empty_ndef" = "Erro: Mensagem NDEF vazia não pôde ser gravada. Por favor. tente novamente";
+
+"nfc_wifi_network_name" = "Rede: ";
+"nfc_wifi_network_password" = "Senha: ";
+
+"nfc_sms_recipient" = "Destinatário:";
+"nfc_sms_message" = "Mensagem:";
+
+// QR
+"nfc_qr_title" = "Leitor QR";
+"nfc_qr_found_title" = "QR Code detectado";
+"nfc_qr_create_writable_record_title" = "Salvar para gravação de NFC";
+"nfc_qr_copy_to_clipboard_title" = "Copiar para a área de transferência";
+"nfc_qr_open_in_browser_title" = "Abrir no navegador";
+"nfc_qr_content_title" = "Conteúdo:";
+"nfc_qr_usertitle_title" = "Título:";
+"nfc_qr_usertitle_placeholder" = "Digite um título";
+"nfc_qr_paste_image_button" = "Colar imagem da área de transfêrencia";
+"nfc_qr_search" = "Procurar";
+"nfc_deactivate_multitasking_error_title" = "Câmera não ativada";
+"nfc_deactivate_multitasking_error_message" = "A câmera não está disponível nos modos Split View ou Slide Over. Por favor, retorne ao modo de tela cheia e tente novamente.";
+"nfc_qr_wifi_connect" = "Conectar";
+"nfc_qr_add_contact" = "Adicionar contato";
+"nfc_qr_open_weblink" = "Abrir link web";
+"nfc_qr_search" = "Buscar no DuckDuckGo";
+"nfc_qr_pasteboard_empty_title" = "Área de transferência vazia";
+"nfc_qr_pasteboard_empty_message" = "Para adicionar uma foto a esse registro, por favor copia qualquer foto (de um site na web ou de sua biblioteca de fotos) e toque neste botão novamente.";
+"nfc_qr_copy_content_clipboard_button" = "Copiar conteúdo para a área de transferência";
+"nfc_qr_share_button" = "Compartilhar QR Code";
+"nfc_qr_save_for_widget_button" = "Salvar QR Code para widget";
+"nfc_qr_remove_for_widget_button" = "Remover QR Code de widget";
+"nfc_qr_save_qr_for_widget_title" = "QR Code salvo";
+"nfc_qr_save_qr_for_widget_message" = "O QR Code foi salvo num widget. Agora você pode exibir esse QR Code no widget.";
+"nfc_qr_how_to_widget_link" = "https://support.apple.com/pt-br/HT207122";
+"nfc_qr_show_me_how_to_widget_button" = "Ajuda dos widgets";
+"nfc_qr_convert_to_nfc_button" = "Converter para tag NFC";
+
+// WIDGETS
+"nfc_widget_qr_display_name" = "Widget QR";
+"nfc_widget_qr_widget_add_title" = "Exibe um QR Code na sua tela inicial";
+"nfc_widget_qr_widget_preview_title" = "Editar widget para selecionar QR Code";
+"nfc_widget_qr_unlimited_widgets_not_purchased_message" = "Widget bloqueado.\nPor favor, compre os widgets ilimitados para usar mais de um widget.";
+
+"nfc_widget_button_display_name" = "Leitura rápida de widget";
+"nfc_widget_button_widget_add_title" = "Iniciar leitura de sua tela inicial";
