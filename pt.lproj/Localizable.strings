@@ -15,8 +15,8 @@
 "nfc_create_sms_title" = "Gerar SMS";
 "nfc_create_tel_title" = "Gerar número telefônico";
 "nfc_create_shortcut_title" = "Gerar atalho";
-"nfc_read_help_title" = "Ler ajuda";
-"nfc_write_help_title" = "Escrever ajuda";
+"nfc_read_help_title" = "Ajuda com leitura";
+"nfc_write_help_title" = "Ajuda com gravação";
 "nfc_licenses_title" = "Licenças";
 "nfc_pro_title" = "Pro";
 "nfc_donation_title" = "Doação";
